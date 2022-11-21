@@ -18,6 +18,7 @@ export const GlobalStyle = createGlobalStyle`
 }
 
 html {
+    margin: 25px 70px;
     @media (max-width: 1080px) {
         font-size: 93.75%; //15px
     }

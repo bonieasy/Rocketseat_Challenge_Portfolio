@@ -2,7 +2,6 @@
   <h1>Rocketseat Challenge - Portfolio</h1>
 
 Under Construction - Portfolio
-
   
 Click <a href="https://bonieasy.github.io" target="_blank"> here </a> to access
 
@@ -10,7 +9,7 @@ Click <a href="https://bonieasy.github.io" target="_blank"> here </a> to access
 
 ## Tech Stack
 
-HTML | CSS | Javascript
+ReactJS | TypeScript | Styled-Components
 
 Made with :heart: by <a href="https://www.linkedin.com/in/ariele-bonifacio/" target="_blank">Ariele Bonifacio (Boni) </a>
 
